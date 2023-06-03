@@ -1,0 +1,9 @@
+.green {
+  background: rgb(26,115,232) !important;
+  color: #fff !important;
+  font-weight: 500 !important;
+}
+
+.green:hover {
+  background: rgb(26,115,232) !important;
+}
